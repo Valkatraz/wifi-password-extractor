@@ -1,0 +1,6 @@
+{
+    "remote.downloadExtensionsLocally": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "extensions.showRecommendationsOnlyOnDemand": true
+}
